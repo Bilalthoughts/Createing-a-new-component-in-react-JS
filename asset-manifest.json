@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Createing-a-new-component-in-react-JS/static/css/main.073c9b0a.css",
+    "main.js": "/Createing-a-new-component-in-react-JS/static/js/main.8496c4d9.js",
+    "static/js/787.4f7f7724.chunk.js": "/Createing-a-new-component-in-react-JS/static/js/787.4f7f7724.chunk.js",
+    "static/media/logo.svg": "/Createing-a-new-component-in-react-JS/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Createing-a-new-component-in-react-JS/index.html",
+    "main.073c9b0a.css.map": "/Createing-a-new-component-in-react-JS/static/css/main.073c9b0a.css.map",
+    "main.8496c4d9.js.map": "/Createing-a-new-component-in-react-JS/static/js/main.8496c4d9.js.map",
+    "787.4f7f7724.chunk.js.map": "/Createing-a-new-component-in-react-JS/static/js/787.4f7f7724.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8496c4d9.js"
+  ]
+}
